@@ -1,0 +1,7 @@
+{
+    "pasteImage.path": "${projectRoot}/docs/media",
+    "pasteImage.basePath": "${projectRoot}/docs/media",
+    "pasteImage.forceUnixStyleSeparator": true,
+    "pasteImage.insertPattern": "![](docs/media/${imageFileName})",
+    "pasteImage.prefix": 
+}
