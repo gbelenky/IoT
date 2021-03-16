@@ -25,7 +25,7 @@ Give it a name:
 Add a custom IoT module:
 ![](docs/media/2021-03-12-18-39-34.png)
 
- Give your first module a name:
+Give your first module a name:
  ![](docs/media/2021-03-12-18-39-55.png)
 
 It is called Receiver because we will also build a Sender module demonstrating a simple way to communicate between modules.
@@ -58,6 +58,7 @@ And finally start your first custom module in the IoT Edge Simulator:
 
 Provide input - edit for just "input 1":
 ![](docs/media/2021-03-12-18-49-54.png)
+
 ![](docs/media/2021-03-12-18-50-05.png)
 
 Have a look at the result:
@@ -73,8 +74,8 @@ Test the your connectivity to local IoT Edge simulator through the bridging REST
 
  Please be aware that your first custom module was not built yet and will not be able to reply to the messages sent to "input1" 
 
- This is the response of the POST request above:
- ![](docs/media/2021-03-16-11-42-50.jpg)
+This is the response of the POST request above:
+![](docs/media/2021-03-16-11-42-50.jpg)
 
 Now build and test your custom module.Change the directory to our module (EdgeHelloWorlsReceiver in my case) in the VS Code terminal and build it:
 ![](docs/media/2021-03-16-11-44-48.jpg)
