@@ -1,4 +1,4 @@
-# Develop and debug IoT Edge custom modules. Implement and debug IoT inter-module communication.
+# Develop and debug IoT Edge custom modules and inter-module communication.
 
 ## Preface
 The purpose of this hands-on walkthrough is to demonstrate how a developer can start building IoT Edge modules locally in VS Code with C# and .NET Core. No Azure resources needed during development and debugging. This walkthrough was built after I collected my first experiences with the [official Microsoft documentation](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-vs-code-develop-module?view=iotedge-2018-06) on this topic. I decided to slightly optimize the developer experience, highlight and deepen some topics mentioned the link above, and also extend the content with an additional custom IoT module and an example of inter-module communication.
