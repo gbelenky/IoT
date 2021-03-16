@@ -20,6 +20,7 @@ Select root directory of your IoT Edge solution:
 ![](docs/media/2021-03-12-18-37-32.png)
 
 Give it a name:
+
 ![](docs/media/2021-03-12-18-38-04.png)
 
 Add a custom IoT module:
